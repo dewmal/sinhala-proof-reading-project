@@ -1,6 +1,6 @@
 # Custom Non-Commercial License (CNC-1.0)
 
-**Copyright © 2025 Dewmal Handapangoda / SYIGEN LTD**
+**Copyright © 2025 Dewmal Handapangoda, Sadika Sumanapala / SYIGEN LTD**
 All rights reserved.
 
 ---
@@ -89,7 +89,7 @@ Commercial use may be permitted **only through explicit written authorization**.
 For commercial licensing, enterprise use, or SaaS deployment, contact:
 
 **Dewmal Handapangoda / SYIGEN LTD**
-📧 *[insert official contact email]*
+📧 *[dewmal@syigen.com/sadika@syigen.com]*
 
 ---
 
